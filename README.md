@@ -1,2 +1,2 @@
-# ARRAYS_C-
+# ARRAYS_C++
 Ejercicios de metodos de arreglo.
